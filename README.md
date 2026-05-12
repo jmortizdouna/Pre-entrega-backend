@@ -14,7 +14,7 @@ Este proyecto es una aplicación de consola desarrollada con Node.js que consume
 1. Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/jmortizdouna/Pre-entrega-backend
 ```
 
 2. Instalar dependencias:
